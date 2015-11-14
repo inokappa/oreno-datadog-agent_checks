@@ -1,0 +1,4 @@
+init_config:
+    threshold_user: 10
+instances:
+    [{}]
